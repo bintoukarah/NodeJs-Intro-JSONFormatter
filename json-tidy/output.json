@@ -1,7 +1,7 @@
 {
   "name": "Book",
-  "infos": {
+  "myBook": {
     "title": "harry_potter",
-    "number": "29"
+    "numberOfPages": "29"
   }
 }
